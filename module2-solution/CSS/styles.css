@@ -71,7 +71,7 @@ p {
 
 }
 
-@media only screen and (min-width: 768px) {
+  @media only screen and (min-width: 768px) {
   .columns, .column{
     float: left;
   
@@ -95,7 +95,7 @@ p {
     }
 }
 
-   @media  (min-width: 992px) and (max-width: 1199px){
+@media  (min-width: 992px){
     .columns, .column{
       float: left;
     }
